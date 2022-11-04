@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                                                                                          
+### Skills
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 ### My Holopin Badges
 [![@danimoz's Holopin board](https://holopin.me/danimoz)](https://holopin.io/@danimoz)
