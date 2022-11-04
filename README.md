@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Holopin Badges
 [![@danimoz's Holopin board](https://holopin.me/danimoz)](https://holopin.io/@danimoz)
