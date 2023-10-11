@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Daniel Azubuine
+- I'm learning C++, Qt and Qml at the moment
+- I'm the founder of Recordatio
+- You can listen to my music on my Youtube Channel https://youtube.com/@DanielAzubuine
+
 
 <!--
 **Danimoz/Danimoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
